@@ -16,3 +16,17 @@ Data exploration and visualization were both performed to answer questions about
 # Limitation
 - data set is only a sample - contains records of only 891 out of 2224 passengers and crews aboard the Titanic, and contains 177 missing age values. Sample size and missing value can skew the result of analysis in this report.
 - data sampling method is unknown at this point. A bias sampling selection violate the assumption of simple random sampling used in chi-squre tests rendering invalid results.
+
+# Future Research
+- there are few other variables that are not considered in this report, such as cabin location, fare, and port of embarkation, which are worthy of detailed analysis in order to give us a better insight about the Titanic survivors and victims.
+- acquisition of complete datasest would bring more interesting discoveries, such as the comparison between passengers and crew, and would give true perspective about Titanic survivors and victims.
+- confirming the simple random sampling method will strengthen the conclusion of this report.
+
+# Resources
+- http://seaborn.pydata.org/tutorial/categorical.html
+- http://stackoverflow.com/questions/24789671/change-the-title-of-factor-plot-in-seaborn
+- http://www.secnetix.de/olli/Python/lambda_functions.hawk
+- http://www.history.com/topics/titanic
+- http://www.titanicfacts.net/titanic-survivors.html
+- https://www.encyclopedia-titanica.org/titanic-survivors/
+- http://www.stat.cmu.edu/~rnugent/PCMI2016/papers/ViolinPlots.pdf
